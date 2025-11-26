@@ -1,0 +1,5 @@
+{
+  "name": "VoiceMinder",
+  "description": "A smart text-to-speech reminder application with manual payment integration and admin management.",
+  "requestFramePermissions": []
+}
